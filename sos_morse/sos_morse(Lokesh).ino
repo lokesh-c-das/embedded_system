@@ -1,6 +1,3 @@
-/**
-* The SOS Morse Code Implementation 
-***/
 int LED_PIN = 12;
 void setup() {
   // I setup port 12 for out experiment.

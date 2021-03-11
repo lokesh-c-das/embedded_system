@@ -1,7 +1,3 @@
-/*
-** This program implements generalized morse code. That means it can 
-* can handle any Morse code consisting of 'A'-'Z' and 0-9 
-**/
 int LED_PIN = 12;
 String inputValue = "";
 void setup() {
