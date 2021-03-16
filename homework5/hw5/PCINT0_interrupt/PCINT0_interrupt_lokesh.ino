@@ -56,8 +56,7 @@ ISR(PCINT0_vect) {
 }
 
 ISR(TIMER1_OVF_vect) {
-
-
+  
   if (state == 0) {
     // Cut the light on and set the count for 3 seconds.
     PORTB |= (1 << PORTB5); // Turn ON LED at digital pin 13
@@ -72,8 +71,6 @@ ISR(TIMER1_OVF_vect) {
   state = !state;
 
 }
-
-
 void loop() {
   // put your main code here, to run repeatedly:
   val = digitalRead(inPin);
