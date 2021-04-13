@@ -1,0 +1,135 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d//Mac/Home/Documents/spring21/EECE6712/class-code/model-sim-test/sequenceBit
+Ebinarysequence
+Z0 w1617654315
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 19
+Z3 d//Mac/Home/Documents/spring21/EECE6712/hw7
+Z4 8//Mac/Home/Documents/spring21/EECE6712/hw7/binarySequence.vhd
+Z5 F//Mac/Home/Documents/spring21/EECE6712/hw7/binarySequence.vhd
+l0
+L5 1
+VJMdzWhkHE^fn13[o@VZmM3
+!s100 gcIJSk1:^AZm35i;]l`D_2
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1617654321
+!i10b 1
+Z8 !s108 1617654321.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Documents/spring21/EECE6712/hw7/binarySequence.vhd|
+Z10 !s107 //Mac/Home/Documents/spring21/EECE6712/hw7/binarySequence.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Aseq_arch
+R1
+R2
+DEx4 work 14 binarysequence 0 22 JMdzWhkHE^fn13[o@VZmM3
+!i122 19
+l15
+L11 69
+Vm2``B^fJKa9^Iinz9gMh40
+!s100 1>Wm<>VfE5k1;`En3VRHG1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Abinarysequence_arch
+R1
+R2
+DEx4 work 14 binarysequence 0 22 ;N;ZDBjBU=5h5>YnZeGB>3
+!i122 12
+l22
+L17 69
+VW7lfSZNzXdVE@J>jfAM;d1
+!s100 1gOajN>f^;zkegS7IfQNo0
+R6
+32
+!s110 1617653368
+!i10b 1
+!s108 1617653368.000000
+R9
+R10
+!i113 1
+R11
+R12
+w1617653354
+Ebinarysequencetb
+Z13 w1618093021
+R1
+R2
+!i122 21
+R3
+Z14 8\\Mac\Home\Documents\spring21\EECE6712\hw7\binarySequenceTB.vhd
+Z15 F\\Mac\Home\Documents\spring21\EECE6712\hw7\binarySequenceTB.vhd
+l0
+L12 1
+V_46E>gWBKdNAlW<<2O@bX1
+!s100 DVHab[UV3hXT3MLa@E8Ko0
+R6
+32
+Z16 !s110 1618093038
+!i10b 1
+Z17 !s108 1618093038.000000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|\\Mac\Home\Documents\spring21\EECE6712\hw7\binarySequenceTB.vhd|
+!s107 \\Mac\Home\Documents\spring21\EECE6712\hw7\binarySequenceTB.vhd|
+!i113 1
+R11
+R12
+Asqtb_arch
+R1
+R2
+DEx4 work 16 binarysequencetb 0 22 _46E>gWBKdNAlW<<2O@bX1
+!i122 21
+l36
+L16 54
+VUC13ZDJEQYOVBWTj6kj1P3
+!s100 D>0E9iNI=[1T@BzdCzcn92
+R6
+32
+R16
+!i10b 1
+R17
+R18
+Z19 !s107 \\Mac\Home\Documents\spring21\EECE6712\hw7\binarySequenceTB.vhd|
+!i113 1
+R11
+R12
+Abs_arch
+R1
+R2
+DEx4 work 16 binarysequencetb 0 22 mPeVEND`FXg]<l6GPhVcF2
+!i122 13
+l32
+L12 53
+VH8iNP0i`Bg;e4ReV8A^[43
+!s100 ^S^eQLKSchPPJTDKegZ=;0
+R6
+32
+!s110 1617653628
+!i10b 1
+!s108 1617653628.000000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Documents/spring21/EECE6712/hw7/binarySequenceTB.vhd|
+Z21 !s107 //Mac/Home/Documents/spring21/EECE6712/hw7/binarySequenceTB.vhd|
+!i113 1
+R11
+R12
+w1617653610
+Z22 F//Mac/Home/Documents/spring21/EECE6712/hw7/binarySequenceTB.vhd
+Z23 8//Mac/Home/Documents/spring21/EECE6712/hw7/binarySequenceTB.vhd

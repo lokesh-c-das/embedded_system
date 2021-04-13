@@ -1,0 +1,93 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d//Mac/Home/Documents/spring21/EECE6712/hw7
+Ebinarysequence
+Z0 w1618110188
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 9
+Z3 d//Mac/Home/Documents/spring21/EECE6712/hw7/binarySequence
+Z4 8\\Mac\Home\Documents\spring21\EECE6712\hw7\binarySequence\binarySequence.vhd
+Z5 F\\Mac\Home\Documents\spring21\EECE6712\hw7\binarySequence\binarySequence.vhd
+l0
+L9 1
+VzGA9L9B9`KfIh0dSSCBg;0
+!s100 6NbDJj0SQ?W=BZdRzJQ]M3
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1618110197
+!i10b 1
+Z8 !s108 1618110197.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|\\Mac\Home\Documents\spring21\EECE6712\hw7\binarySequence\binarySequence.vhd|
+Z10 !s107 \\Mac\Home\Documents\spring21\EECE6712\hw7\binarySequence\binarySequence.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Aseq_arch
+R1
+R2
+Z13 DEx4 work 14 binarysequence 0 22 zGA9L9B9`KfIh0dSSCBg;0
+!i122 9
+l19
+Z14 L15 69
+Z15 VnS2<`X3_91_FEK`NdTR0n1
+Z16 !s100 Mk][XZJP@nIRK5Y_A3m;C3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Ebinarysequencetb
+Z17 w1618093021
+R1
+R2
+!i122 8
+R3
+Z18 8\\Mac\Home\Documents\spring21\EECE6712\hw7\binarySequence\binarySequenceTB.vhd
+Z19 F\\Mac\Home\Documents\spring21\EECE6712\hw7\binarySequence\binarySequenceTB.vhd
+l0
+L12 1
+V_46E>gWBKdNAlW<<2O@bX1
+!s100 DVHab[UV3hXT3MLa@E8Ko0
+R6
+32
+Z20 !s110 1618110121
+!i10b 1
+Z21 !s108 1618110121.000000
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|\\Mac\Home\Documents\spring21\EECE6712\hw7\binarySequence\binarySequenceTB.vhd|
+Z23 !s107 \\Mac\Home\Documents\spring21\EECE6712\hw7\binarySequence\binarySequenceTB.vhd|
+!i113 1
+R11
+R12
+Asqtb_arch
+R1
+R2
+DEx4 work 16 binarysequencetb 0 22 _46E>gWBKdNAlW<<2O@bX1
+!i122 8
+l36
+L16 54
+VUC13ZDJEQYOVBWTj6kj1P3
+!s100 D>0E9iNI=[1T@BzdCzcn92
+R6
+32
+R20
+!i10b 1
+R21
+R22
+R23
+!i113 1
+R11
+R12

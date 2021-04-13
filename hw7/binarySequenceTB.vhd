@@ -1,0 +1,69 @@
+-- A VHDL program to detect binary sequence "11010"
+-- Developed By: Lokesh
+-- Date : 04/10/2021
+-- TestBench File
+
+-- all necessary libraries
+library ieee;
+use ieee.std_logic_1164.all;
+
+-- declare entity for testbench
+
+entity binarySequenceTB is 
+end entity;
+
+-- architecture of binary sequence
+architecture sqTB_arch of binarySequenceTB is
+	-- component declaration for finite state
+	component binarySequence
+		port(clk, reset, sequenc_in : in std_logic;
+		 F 				: out std_logic
+		 );
+	end component;
+	
+	-- inputs
+	signal clk : std_logic :='0';
+	signal reset : std_logic :='0';
+	signal sequenc_in : std_logic :='0';
+	
+	-- outputs
+	
+	signal F : std_logic;
+	
+	-- clock period definitions
+	constant clock_period : time := 10 ns;
+	
+	begin
+	uut: binarySequence port map(
+		clk => clk,
+		reset => reset,
+		sequenc_in => sequenc_in,
+		F => F
+	);
+	
+	clock_process :process
+	begin
+		clk <= '0';
+		wait for clock_period/2;
+		clk <='1';
+		wait for clock_period/2;
+	end process;
+	
+	-- stimulus process
+	stim_proc: process
+		begin
+		 sequenc_in <= '1';
+		 reset <='1';
+		wait for 10 ns;
+			reset <= '0';
+		wait for 10 ns;
+			sequenc_in <= '1';
+		wait for 10 ns;
+			sequenc_in <= '0';
+		wait for 10 ns;
+			sequenc_in <= '1';
+		wait for 10 ns;
+			sequenc_in <= '0';
+		wait for 10 ns;
+	end process;
+end architecture;

@@ -1,0 +1,18 @@
+# Compile of binarySequence.vhd was successful.
+# Compile of binarySequenceTB.vhd was successful.
+# Compile of binarySequence.vhd was successful.
+# Compile of binarySequence.vhd was successful.
+# Compile of binarySequenceTB.vhd was successful.
+# Compile of binarySequence.vhd was successful.
+vsim -gui work.binarysequencetb
+# vsim -gui work.binarysequencetb 
+# Start time: 22:03:41 on Apr 10,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.binarysequencetb(sqtb_arch)
+# Loading work.binarysequence(seq_arch)
+add wave -r /*
+run -all
+# End time: 22:07:17 on Apr 10,2021, Elapsed time: 0:03:36
+# Errors: 0, Warnings: 8
